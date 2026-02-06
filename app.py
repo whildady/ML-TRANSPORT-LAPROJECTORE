@@ -1,3 +1,4 @@
+# app.py
 
 import streamlit as st
 import joblib
@@ -64,4 +65,4 @@ st.success(f"🎯 Predicted Transport Mode: **{prediction}**")
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("Made with ❤️ by whildady | Powered by Streamlit")
+st.markdown("Made with ❤️ by Cresensia | Powered by Streamlit")
